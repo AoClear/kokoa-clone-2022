@@ -1,6 +1,7 @@
 .screen-header {
   position: fixed;
-  top: 32px;
+  background-color: white;
+  top: 26px;
   width: 100%;
   display: flex;
   justify-content: space-between;

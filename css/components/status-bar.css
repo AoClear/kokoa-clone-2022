@@ -1,5 +1,6 @@
 .status-bar {
   position: fixed;
+  background-color: white;
   top: 0;
   width: 100%;
   display: flex;
@@ -7,6 +8,11 @@
   padding: 5px 3px;
   box-sizing: border-box;
 }
+
+.alt-status-bar {
+  background-color: #abc1d1;
+}
+
 .status-bar__column {
   width: 33%;
 }
