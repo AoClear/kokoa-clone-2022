@@ -9,3 +9,16 @@
   color: white;
   font-weight: 600;
 }
+
+.notification-badge {
+  background-color: white;
+  color: tomato;
+  border: 2px solid tomato;
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
